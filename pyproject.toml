@@ -41,7 +41,7 @@ dependencies = [
   "langchain-core",
   "langchain-nvidia-ai-endpoints",
   "langchain-openai",
-  "langgraph-checkpoint==2.0.10",
+  "langgraph-checkpoint==3.0.0",
   "langgraph-sdk==0.1.51",
   "langgraph==0.2.69",
   "langsmith==0.3.4",
