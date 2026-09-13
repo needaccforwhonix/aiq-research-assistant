@@ -1,0 +1,1645 @@
+[
+  {
+    "file": "CODE-OF-CONDUCT.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CHANGELOG.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CONTRIBUTING.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "uv.lock",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "requirements.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".gitattributes",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "pyproject.toml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "LICENSE",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "LICENSE-3rd-party.txt",
+    "dependencies": [
+      "and"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "SECURITY.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".project/configpacks",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".project/spec.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/readme.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/FAQ.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/local-development.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/troubleshooting.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/evaluate.md",
+    "dependencies": [
+      "nat.builder.framework_enum",
+      "typing_extensions",
+      "logging",
+      "AIResearcherEvalOutput",
+      "Dict",
+      "asyncio",
+      "EvaluatorBaseConfig",
+      "nat.data_models.component_ref",
+      "aiq_aira.eval.evaluators.my_custom_evaluator",
+      "nat.eval.evaluator.evaluator_model",
+      "langchain_core.language_models.base",
+      "LLMFrameworkEnum",
+      "MyCustomEvaluator",
+      "Field",
+      "aiq_aira.eval.schema",
+      "BaseLanguageModel",
+      "nat.eval.evaluator.base_evaluator",
+      ".evaluator_register",
+      "LLMRef",
+      "typing",
+      "your",
+      "register_my_custom_evaluator",
+      "pydantic",
+      "override",
+      "BaseEvaluator",
+      "the",
+      "EvalInputItem",
+      "nat.data_models.evaluator"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/security-testing.md",
+    "dependencies": [
+      "yaml"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/rest-api.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/phoenix-tracing.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/example-workflow-output/rag_relevance_output.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/example-workflow-output/hallucination_output.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/example-workflow-output/rag_accuracy_output.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/example-workflow-output/coverage_output.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/example-workflow-output/synthesis_output.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/example-workflow-output/citation_recall_output.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/example-workflow-output/citation_precision_output.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/example-workflow-output/inference_optimization.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/example-workflow-output/citation_f1_output.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/example-workflow-output/workflow_output.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/example-workflow-output/rag_groundedness_output.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/get-started/get-started-hosted-nims.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/get-started/get-started-docker-compose.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/get-started/get-started-helm.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "demo/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/uv.lock",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/test_aira/test_web_search.py",
+    "dependencies": [
+      "os",
+      "pytest_asyncio",
+      "ClientSession",
+      "asyncio",
+      "Path",
+      "pytest",
+      "pathlib",
+      "ChatOpenAI",
+      "aiohttp",
+      "urllib.parse",
+      "AIRAState",
+      "GenerateSummaryStateInput",
+      "web_research",
+      "io",
+      "json",
+      "aiq_aira.nodes",
+      "patch",
+      "langchain_openai",
+      "web",
+      "aiq_aira.schema",
+      "aiq_aira.functions.generate_summary",
+      "ConfigSchema",
+      "unittest.mock",
+      "urljoin"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/test_aira/rag_response_relevant.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/test_aira/rag_response_not_relevant.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/test_aira/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/test_aira/test_module_loads.py",
+    "dependencies": [
+      "pytest",
+      "subprocess",
+      "docker",
+      "ai_researcher",
+      "aiq_aira.register",
+      "time"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/test_aira/test_generate_query.py",
+    "dependencies": [
+      "aiq_aira",
+      "AIRAGenerateQueriesConfig",
+      "register_fastapi_front_end",
+      "nat.llm.openai_llm",
+      "logging",
+      "these",
+      "Path",
+      "pytest",
+      "yaml",
+      "register",
+      "WorkflowBuilder",
+      "aiq_aira.functions",
+      "GenerateQueryStateInput",
+      "nat.front_ends.fastapi.register",
+      "artifact_qa",
+      "nat.builder.workflow_builder",
+      "AIQConfig",
+      "openai_llm",
+      "aiq_aira.functions.generate_queries",
+      "nat.data_models.config",
+      "aiq_aira.schema",
+      "pathlib",
+      "nat.llm"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/test_aira/test_artifact_qa.py",
+    "dependencies": [
+      "aiq_aira",
+      "ArtifactQAConfig",
+      "register_fastapi_front_end",
+      "nat.llm.openai_llm",
+      "logging",
+      "these",
+      "ArtifactQAInput",
+      "Path",
+      "pytest",
+      "yaml",
+      "register",
+      "WorkflowBuilder",
+      "aiq_aira.functions",
+      "aiq_aira.functions.artifact_qa",
+      "nat.front_ends.fastapi.register",
+      "artifact_qa",
+      "nat.builder.workflow_builder",
+      "AIQConfig",
+      "openai_llm",
+      "nat.data_models.config",
+      "aiq_aira.schema",
+      "pathlib",
+      "nat.llm"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/test_aira/test_generate_summary.py",
+    "dependencies": [
+      "aiq_aira",
+      "register_fastapi_front_end",
+      "nat.llm.openai_llm",
+      "logging",
+      "these",
+      "Path",
+      "pytest",
+      "yaml",
+      "register",
+      "WorkflowBuilder",
+      "aiq_aira.functions",
+      "GenerateSummaryStateInput",
+      "nat.front_ends.fastapi.register",
+      "artifact_qa",
+      "json",
+      "nat.builder.workflow_builder",
+      "AIQConfig",
+      "openai_llm",
+      "nat.data_models.config",
+      "aiq_aira.schema",
+      "pathlib",
+      "nat.llm"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/test_aira/test_configmap_matches_config.py",
+    "dependencies": [
+      "Path",
+      "tempfile",
+      "pytest",
+      "yaml",
+      "subprocess",
+      "pathlib",
+      "re"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/nodes.py",
+    "dependencies": [
+      "langchain_core.runnables",
+      "aiq_aira.search_utils",
+      "ChatPromptTemplate",
+      "logging",
+      "asyncio",
+      "langchain_core.stores",
+      "parse_json_markdown",
+      "summarize_report",
+      "langgraph.types",
+      "aiq_aira.utils",
+      "AIRAState",
+      "RunnableConfig",
+      "aiq_aira.report_gen_utils",
+      "ASYNC_TIMEOUT",
+      "InMemoryByteStore",
+      "langchain_core.utils.json",
+      "langchain_core.prompts",
+      "GeneratedQuery",
+      "StreamWriter",
+      "process_single_query",
+      "aiq_aira.constants",
+      "async_gen",
+      "aiq_aira.schema",
+      "aiq_aira.prompts"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/__init__.py",
+    "dependencies": [
+      ".eval",
+      "evaluator_register",
+      ".",
+      "register"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/tools.py",
+    "dependencies": [
+      "asyncio",
+      "aiohttp",
+      "urllib.parse",
+      "aiq_aira.utils",
+      "StreamWriter",
+      "json",
+      "aiq_aira.constants",
+      "langgraph.types",
+      "langchain_community.tools",
+      "logging",
+      "get_domain",
+      "urljoin",
+      "TavilySearchResults",
+      "ASYNC_TIMEOUT"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/search_utils.py",
+    "dependencies": [
+      "langchain_core.runnables",
+      "html",
+      "List",
+      "logging",
+      "dummy",
+      "asyncio",
+      "parse_json_markdown",
+      "ChatOpenAI",
+      "langgraph.types",
+      "search_rag",
+      "aiohttp",
+      "aiq_aira.utils",
+      "RunnableConfig",
+      "relevancy_checker",
+      "xml.etree.ElementTree",
+      "re",
+      "ASYNC_TIMEOUT",
+      "typing",
+      "langchain_core.utils.json",
+      "GeneratedQuery",
+      "StreamWriter",
+      "langchain_openai",
+      "aiq_aira.constants",
+      "aiq_aira.tools",
+      "aiq_aira.schema",
+      "aiq_aira.prompts"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/schema.py",
+    "dependencies": [
+      "Path",
+      "TypedDict",
+      "enum",
+      "BaseModel",
+      "dataclasses",
+      "yaml",
+      "html",
+      "Enum",
+      "pydantic",
+      "ChatOpenAI",
+      "langchain_openai",
+      "typing_extensions",
+      "field",
+      "pathlib",
+      "re"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/constants.py",
+    "dependencies": [
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/report_gen_utils.py",
+    "dependencies": [
+      "asyncio",
+      "update_system_prompt",
+      "langchain_core.prompts",
+      "aiq_aira.utils",
+      "StreamWriter",
+      "ChatPromptTemplate",
+      "ChatOpenAI",
+      "langchain_openai",
+      "langgraph.types",
+      "aiq_aira.constants",
+      "logging",
+      "aiq_aira.prompts",
+      "ASYNC_TIMEOUT"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/utils.py",
+    "dependencies": [
+      "asyncio",
+      "langchain_openai",
+      "ChatOpenAI",
+      "logging",
+      "re"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/artifact_utils.py",
+    "dependencies": [
+      "langchain_core.utils.json",
+      "langchain_core.prompts",
+      "ChatPromptTemplate",
+      "HumanMessage",
+      "parse_json_markdown",
+      "langchain_core.messages",
+      "logging",
+      "ArtifactQAInput",
+      "aiq_aira.schema",
+      "aiq_aira.artifact_prompts"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/register.py",
+    "dependencies": [
+      "os",
+      "BaseModel",
+      "Any",
+      "nat.builder.framework_enum",
+      "logging",
+      "register_function",
+      "FunctionBaseConfig",
+      "nat.builder.builder",
+      "asyncio",
+      "nat.data_models.component_ref",
+      "LLMFrameworkEnum",
+      "register",
+      "aiq_aira.functions",
+      "APIExtensionsConfig",
+      "generate_summary",
+      "nat.plugins.langchain",
+      "LLMRef",
+      "aiq_aira.fastapi_extensions.register",
+      "nat.data_models.function",
+      "AIQChatResponseChunk",
+      "nat.cli.register_workflow",
+      "FunctionInfo",
+      "json",
+      "typing",
+      "FunctionRef",
+      "nat.data_models.api_server",
+      "pydantic",
+      "nat.builder.function_info",
+      "Builder"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/artifact_prompts.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/prompts.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/eval/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/eval/evaluator_register.py",
+    "dependencies": [
+      "SynthesisEvaluatorConfig",
+      "EvalBuilder",
+      "CitationPrecisionEvaluator",
+      "nat.builder.framework_enum",
+      "aiq_aira.eval.evaluators.ragas_wrapper_evaluator",
+      "CoverageEvaluator",
+      "CitationF1EvaluatorConfig",
+      "CitationRecallEvaluator",
+      "CitationRecallEvaluatorConfig",
+      "CoverageEvaluatorConfig",
+      "nat.builder.builder",
+      "LLMFrameworkEnum",
+      "RagasWrapperEvaluatorConfig",
+      "CitationPrecisionEvaluatorConfig",
+      "HallucinationEvaluatorConfig",
+      "aiq_aira.eval.evaluators.synthesis_evaluator",
+      "RagasWrapperEvaluator",
+      "HallucinationEvaluator",
+      "EvaluatorInfo",
+      "nat.cli.register_workflow",
+      "register_evaluator",
+      "nat.builder.evaluator",
+      "CitationQualityEvaluator",
+      "CitationQualityEvaluatorConfig",
+      "SynthesisEvaluator",
+      "CitationF1Evaluator",
+      "aiq_aira.eval.evaluators.coverage_evaluator",
+      "aiq_aira.eval.evaluators.citation_quality_evaluator",
+      "aiq_aira.eval.evaluators.hallucination_evaluator"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/eval/schema.py",
+    "dependencies": [
+      "typing",
+      "pydantic",
+      "BaseModel",
+      "Optional"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/eval/generator_register.py",
+    "dependencies": [
+      "AIResearcherEvalInput",
+      "aiq_aira.eval.config",
+      "nat.builder.function_info",
+      "aiq_aira.eval.generators",
+      "FunctionInfo",
+      "AIRAEvaluatorWorkflowConfig",
+      "register",
+      "logging",
+      "aiq_aira.eval.schema",
+      "AIResearcherEvalOutput",
+      "register_function",
+      "nat.builder.builder",
+      "nat.cli.register_workflow",
+      "json",
+      "Builder"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/eval/config.py",
+    "dependencies": [
+      "typing",
+      "FunctionRef",
+      "Discriminator",
+      "nat.data_models.component_ref",
+      "pydantic",
+      "TypedBaseModel",
+      "BaseModelRegistryTag",
+      "LLMRef",
+      "nat.data_models.function",
+      "nat.data_models.common",
+      "Field",
+      "FunctionBaseConfig",
+      "Tag"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/eval/evaluators/__init__.py",
+    "dependencies": [
+      ".weave_evaluator",
+      ".synthesis_evaluator",
+      ".hallucination_evaluator",
+      "CitationQualityEvaluator",
+      "WeaveEvaluator",
+      ".coverage_evaluator",
+      "CitationPrecisionEvaluator",
+      "RagasWrapperEvaluator",
+      ".citation_quality_evaluator",
+      ".ragas_wrapper_evaluator",
+      "SynthesisEvaluator",
+      "HallucinationEvaluator",
+      "CitationF1Evaluator",
+      "CoverageEvaluator",
+      "CitationRecallEvaluator"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/eval/evaluators/hallucination_evaluator.py",
+    "dependencies": [
+      "SingleTurnMetric",
+      "os",
+      "BaseModel",
+      "logging",
+      "field",
+      "Callbacks",
+      "AIResearcherEvalOutput",
+      "langchain_core.prompt_values",
+      "asyncio",
+      "ragas.metrics.base",
+      "EvaluatorBaseConfig",
+      "dataclasses",
+      "EvalOutputItem",
+      "nat.data_models.component_ref",
+      "langchain_core.callbacks.base",
+      "EvalInput",
+      "nat.eval.evaluator.evaluator_model",
+      "langchain_core.language_models.base",
+      "dataclass",
+      "aiq_aira.eval.schema",
+      "BaseLanguageModel",
+      "MetricWithLLM",
+      "SingleTurnSample",
+      "StringPromptValue",
+      "HumanMessage",
+      "langchain_core.messages",
+      "EvalOutput",
+      "LLMRef",
+      "re",
+      "json",
+      "typing",
+      "pydantic",
+      "MetricType",
+      "Field",
+      "ragas.dataset_schema",
+      "EvalInputItem",
+      "nat.data_models.evaluator"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/eval/evaluators/ragas_wrapper_evaluator.py",
+    "dependencies": [
+      "ragas.metrics",
+      "Any",
+      "AnswerAccuracy",
+      "List",
+      "logging",
+      "ragas.llms",
+      "EvalInputItem",
+      "AIResearcherEvalOutput",
+      "ContextRelevance",
+      "Dict",
+      "asyncio",
+      "ragas.metrics.base",
+      "EvaluatorBaseConfig",
+      "dataclasses",
+      "Optional",
+      "EvalOutputItem",
+      "nat.data_models.component_ref",
+      "EvalInput",
+      "LangchainLLMWrapper",
+      "nat.eval.evaluator.evaluator_model",
+      "langchain_core.language_models",
+      "dataclass",
+      "aiq_aira.eval.schema",
+      "BaseLanguageModel",
+      "ragas",
+      "MetricWithLLM",
+      "EvalOutput",
+      "LLMRef",
+      "typing",
+      "math",
+      "pydantic",
+      "ResponseGroundedness",
+      "MetricType",
+      "Field",
+      "SingleTurnSample",
+      "nat.data_models.evaluator"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/eval/evaluators/coverage_evaluator.py",
+    "dependencies": [
+      "SingleTurnMetric",
+      "BaseModel",
+      "logging",
+      "field",
+      "EvalInputItem",
+      "Callbacks",
+      "AIResearcherEvalOutput",
+      "langchain_core.prompt_values",
+      "asyncio",
+      "ragas.metrics.base",
+      "EvaluatorBaseConfig",
+      "dataclasses",
+      "EvalOutputItem",
+      "nat.data_models.component_ref",
+      "langchain_core.callbacks.base",
+      "EvalInput",
+      "nat.eval.evaluator.evaluator_model",
+      "langchain_core.language_models.base",
+      "dataclass",
+      "aiq_aira.eval.schema",
+      "BaseLanguageModel",
+      "MetricWithLLM",
+      "StringPromptValue",
+      "EvalOutput",
+      "LLMRef",
+      "json",
+      "typing",
+      "pydantic",
+      "MetricType",
+      "Field",
+      "ragas.dataset_schema",
+      "SingleTurnSample",
+      "nat.data_models.evaluator"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/eval/evaluators/citation_quality_evaluator.py",
+    "dependencies": [
+      "os",
+      "ragas.metrics",
+      "List",
+      "logging",
+      "ragas.llms",
+      "AIResearcherEvalOutput",
+      "Dict",
+      "asyncio",
+      "EvaluatorBaseConfig",
+      "nat.data_models.component_ref",
+      "EvalOutputItem",
+      "sleep",
+      "EvalInput",
+      "LangchainLLMWrapper",
+      "nat.eval.evaluator.evaluator_model",
+      "langchain_core.language_models.base",
+      "ChatOpenAI",
+      "aiq_aira.eval.schema",
+      "BaseLanguageModel",
+      "SingleTurnSample",
+      "EvalOutput",
+      "LLMRef",
+      "re",
+      "json",
+      "typing",
+      "nat.data_models.evaluator",
+      "langchain_nvidia_ai_endpoints",
+      "pydantic",
+      "langchain_openai",
+      "ChatNVIDIA",
+      "ResponseGroundedness",
+      "Tuple",
+      "Field",
+      "ragas.dataset_schema",
+      "EvalInputItem",
+      "time"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/eval/evaluators/synthesis_evaluator.py",
+    "dependencies": [
+      "SingleTurnMetric",
+      "os",
+      "BaseModel",
+      "logging",
+      "field",
+      "Callbacks",
+      "AIResearcherEvalOutput",
+      "langchain_core.prompt_values",
+      "asyncio",
+      "ragas.metrics.base",
+      "EvaluatorBaseConfig",
+      "dataclasses",
+      "EvalOutputItem",
+      "nat.data_models.component_ref",
+      "langchain_core.callbacks.base",
+      "EvalInput",
+      "nat.eval.evaluator.evaluator_model",
+      "langchain_core.language_models.base",
+      "dataclass",
+      "aiq_aira.eval.schema",
+      "BaseLanguageModel",
+      "MetricWithLLM",
+      "SingleTurnSample",
+      "StringPromptValue",
+      "HumanMessage",
+      "langchain_core.messages",
+      "EvalOutput",
+      "LLMRef",
+      "re",
+      "json",
+      "typing",
+      "pydantic",
+      "MetricType",
+      "Field",
+      "ragas.dataset_schema",
+      "EvalInputItem",
+      "nat.data_models.evaluator"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/eval/generators/__init__.py",
+    "dependencies": [
+      ".generate_full",
+      "AIRAFullGenerator"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/eval/generators/extraction_utils.py",
+    "dependencies": [
+      "os",
+      "BaseModel",
+      "Any",
+      "joblib",
+      "List",
+      "logging",
+      "Parallel",
+      "Dict",
+      "asyncio",
+      "AzureOpenAI",
+      "openai",
+      "delayed",
+      "OpenAI",
+      "re",
+      "json",
+      "typing",
+      "pydantic",
+      "Tuple",
+      "Field",
+      "requests",
+      "time"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/eval/generators/register.py",
+    "dependencies": [
+      ".generate_full",
+      "AIRAFullGenerator"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/eval/generators/generate_full.py",
+    "dependencies": [
+      "BaseModel",
+      "register_generator",
+      "debug_report_structure",
+      "Any",
+      "nat.builder.framework_enum",
+      "List",
+      "logging",
+      "extract_relevancy_judgements",
+      "AIResearcherEvalOutput",
+      "split_report_and_citations",
+      "Dict",
+      "nat.builder.builder",
+      "AIResearcherEvalInput",
+      ".extraction_utils",
+      "LLMFrameworkEnum",
+      "generate_coverage_facts_claims",
+      "aiq_aira.eval.schema",
+      "aiq_aira.eval.generators.extraction_utils",
+      "AIRAGeneratorBase",
+      "extract_web_answers",
+      "AIRAEvaluatorWorkflowConfig",
+      "GenerateSummaryStateInput",
+      "extract_rag_contexts",
+      "GenerateQueryStateInput",
+      "json",
+      "typing",
+      "extract_groundness_facts",
+      "aiq_aira.eval.config",
+      "aiq_aira.eval.generator_register",
+      "generate_context_relevance_questions",
+      "pydantic",
+      "aiq_aira.schema",
+      "batch_pair_facts_with_citations",
+      "Field",
+      "extract_reflections_and_queries",
+      "Builder"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/fastapi_extensions/__init__.py",
+    "dependencies": [
+      "register_api_extensions",
+      ".register"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/fastapi_extensions/register.py",
+    "dependencies": [
+      "os",
+      "add_document_routes",
+      "nat.front_ends.fastapi.fastapi_front_end_plugin",
+      ".routes.documents",
+      "FastApiFrontEndPluginWorkerBase",
+      "nat.front_ends.fastapi.fastapi_front_end_config",
+      "FastAPI",
+      ".routes.collections",
+      "WorkflowBuilder",
+      "fastapi",
+      "nat.front_ends.fastapi.fastapi_front_end_plugin_worker",
+      "nat.cli.register_workflow",
+      "typing",
+      "nat.builder.workflow_builder",
+      "FastApiFrontEndPlugin",
+      "FastApiFrontEndConfig",
+      "FastApiFrontEndPluginWorker",
+      "AIQConfig",
+      "override",
+      "nat.data_models.config",
+      "register_front_end",
+      "add_collection_routes"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/fastapi_extensions/routes/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/fastapi_extensions/routes/collections.py",
+    "dependencies": [
+      "asyncio",
+      "typing",
+      "BaseModel",
+      "Optional",
+      "FastAPI",
+      "httpx",
+      "Any",
+      "pydantic",
+      "List",
+      "logging",
+      "fastapi"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/fastapi_extensions/routes/documents.py",
+    "dependencies": [
+      "BaseModel",
+      "Any",
+      "List",
+      "logging",
+      "File",
+      "Dict",
+      "Path",
+      "HTTPException",
+      "FastAPI",
+      "UploadFile",
+      "fastapi",
+      "re",
+      "json",
+      "typing",
+      "Form",
+      "Query",
+      "httpx",
+      "pydantic",
+      "pathlib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/functions/generate_summary.py",
+    "dependencies": [
+      "langchain_core.runnables",
+      "nat.builder.framework_enum",
+      "GenerateSummaryStateOutput",
+      "register_function",
+      "finalize_summary",
+      "FunctionBaseConfig",
+      "nat.builder.builder",
+      "reflect_on_summary",
+      "nat.data_models.component_ref",
+      "LLMFrameworkEnum",
+      "summarize_sources",
+      "AIRAState",
+      "AsyncGenerator",
+      "RunnableConfig",
+      "GenerateSummaryStateInput",
+      "web_research",
+      "LLMRef",
+      "START",
+      "nat.data_models.function",
+      "AIQChatResponseChunk",
+      "nat.cli.register_workflow",
+      "FunctionInfo",
+      "json",
+      "typing",
+      "aiq_aira.nodes",
+      "END",
+      "nat.data_models.api_server",
+      "StateGraph",
+      "langgraph.graph",
+      "aiq_aira.schema",
+      "ConfigSchema",
+      "nat.builder.function_info",
+      "Builder"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/functions/artifact_qa.py",
+    "dependencies": [
+      "os",
+      "nat.builder.framework_enum",
+      "logging",
+      "aiq_aira.artifact_utils",
+      "register_function",
+      "FunctionBaseConfig",
+      "nat.builder.builder",
+      "nat.data_models.component_ref",
+      "LLMFrameworkEnum",
+      "artifact_chat_handler",
+      "AsyncGenerator",
+      "nat.data_models.function",
+      "nat.cli.register_workflow",
+      "FunctionInfo",
+      "typing",
+      "FunctionRef",
+      "aiq_aira.nodes",
+      "process_single_query",
+      "aiq_aira.schema",
+      "nat.builder.function_info",
+      "Builder"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "aira/src/aiq_aira/functions/generate_queries.py",
+    "dependencies": [
+      "GenerateQueryStateOutput",
+      "langchain_core.runnables",
+      "nat.builder.framework_enum",
+      "logging",
+      "register_function",
+      "FunctionBaseConfig",
+      "nat.builder.builder",
+      "nat.data_models.component_ref",
+      "LLMFrameworkEnum",
+      "AIRAState",
+      "AsyncGenerator",
+      "RunnableConfig",
+      "LLMRef",
+      "GenerateQueryStateInput",
+      "START",
+      "nat.data_models.function",
+      "AIQChatResponseChunk",
+      "nat.cli.register_workflow",
+      "json",
+      "FunctionInfo",
+      "typing",
+      "aiq_aira.nodes",
+      "nat.data_models.api_server",
+      "generate_query",
+      "aiq_aira.schema",
+      "langgraph.graph",
+      "ConfigSchema",
+      "nat.builder.function_info",
+      "Builder"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/aiq_evaluation_tutorial.ipynb",
+    "dependencies": [
+      "aiq_aira",
+      "Path",
+      "os",
+      "immediately",
+      "wandb",
+      "yaml",
+      "subprocess",
+      "pathlib",
+      "sys",
+      "getpass",
+      "json"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/test_rest_apis.ipynb",
+    "dependencies": [
+      "subprocess",
+      "os",
+      "sys",
+      "time"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/get_started_nvidia_api.ipynb",
+    "dependencies": [
+      "subprocess",
+      "getpass",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "configs/config.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "configs/security_config.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "configs/hosted-config.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "configs/eval_config.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/Dockerfile",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/entrypoint.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/Chart.lock",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/values.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/Chart.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/.helmignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/values.schema.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/LICENSE",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/values.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/Chart.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/templates/configmap.yaml",
+    "dependencies": [
+      "nim_llm_sdk.logging.pack_all_logs_into_json"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/templates/NOTES.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/templates/multi_node_deployment.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/templates/ingress.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/templates/service.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/templates/secrets.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/templates/servicemonitor.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/templates/pvc.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/templates/deployment.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/templates/serviceaccount.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/templates/hpa.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/templates/_helpers.tpl",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/templates/tests/test-streaming-chat.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/templates/tests/test-models.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/templates/tests/test-completions.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/charts/nim-llm/files/ngc_pull.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/templates/configmap.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/templates/phoenix-tracing.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/templates/service.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/templates/secrets.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/templates/frontend.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/templates/deployment.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/templates/frontend-service.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/templates/_helpers.tpl",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/files/security_config.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/aiq-aira/files/app-config.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/workbench/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/workbench/docker-compose.yaml",
+    "dependencies": [
+      "requests"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/workbench/nginx.conf.template",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/compose/docker-compose.yaml",
+    "dependencies": [
+      "requests"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "data/Dockerfile",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "data/readme.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "data/eval_dataset.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "data/requirements.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "data/zip_to_collection.py",
+    "dependencies": [
+      "asyncio",
+      "typing",
+      "zipfile",
+      "Path",
+      "os",
+      "BaseModel",
+      "aiohttp",
+      "urllib.parse",
+      "aiofiles",
+      "pydantic",
+      "List",
+      "logging",
+      "glob",
+      "pathlib",
+      "json"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_security_prompts.py",
+    "dependencies": [
+      "typing",
+      "os",
+      "dataclasses",
+      "requests",
+      "List",
+      "dataclass",
+      "json",
+      "time"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  }
+]
